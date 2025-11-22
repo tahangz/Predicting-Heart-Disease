@@ -68,8 +68,7 @@ Predicting-Heart-Disease/
 ├── src/                    # Source code for preprocessing, modeling, evaluation
 ├── models/                 # Saved ML models
 ├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── .gitignore              # Files to ignore in Git
+└── README.md               # Project documentation
 ```
 
 ## Contributing
