@@ -88,4 +88,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 * GitHub: [tahangz](https://github.com/tahangz)
-* Email: [your_email@example.com](mailto:your_email@example.com)
+* Email: [your_email@example.com](mailto:taha.naguez@ensi-uma.tn)
