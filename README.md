@@ -39,7 +39,7 @@ cd Predicting-Heart-Disease
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+.\venv\Scripts\Activate.ps1  # On Windows
 ```
 
 3. Install dependencies:
