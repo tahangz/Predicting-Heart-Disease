@@ -1,6 +1,7 @@
 # Predicting Heart Disease - End-to-End ML Project
 
-![ML Project](https://img.shields.io/badge/Status-Completed-brightgreen)
+![ML Project](https://img.shields.io/badge/Status-Ongoing-yellow)
+<!--![ML Project](https://img.shields.io/badge/Status-Completed-brightgreen)-->
 
 ## Description
 
