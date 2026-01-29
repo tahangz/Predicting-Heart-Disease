@@ -16,7 +16,7 @@ This project specifically focuses on **predicting heart disease** using various 
 * Feature engineering and selection
 * Training and evaluating multiple ML models
 * Hyperparameter tuning
-* Model deployment-ready pipeline
+* Model deployment and monitoring pipeline
 
 ## Technologies
 
